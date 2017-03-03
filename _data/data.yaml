@@ -31,7 +31,8 @@ statuses:
         icon: handshake-o
 
 promises:
-        title: 'No more trips to Philadelphias Best Cheesesteak Restaurant" 
+    -
+        title: 'No more trips to Philadelphias Best Cheesesteak Restaurant'
     -
         title: 'No more trips Maralago'
         status: Broken
